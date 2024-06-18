@@ -56,6 +56,8 @@ const User: React.FC = () => {
           </div>
           <div className="ml-4">
             <Image
+              width={900}
+              height={900}
               src={perfil}
               alt="User Profile"
               className="w-60 h-60 rounded-full"
