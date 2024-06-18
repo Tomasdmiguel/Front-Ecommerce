@@ -67,7 +67,7 @@ const Register: React.FC = (): React.ReactElement => {
   return (
     <div className="max-w-lg mx-auto mt-10 mb-10 p-6 border border-gray-300 rounded-md">
       <h1 className="text-2xl font-bold mb-4 text-center">
-        Register if you don't have a username
+        Register if you don t have a username
       </h1>
       <form onSubmit={handleSubmit}>
         <div className="mb-4">
